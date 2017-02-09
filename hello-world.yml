@@ -1,3 +1,5 @@
-name: vina
-wife:
- name: preethi
+family:
+ wife:
+  name: preethi
+ daughter:
+  name: vina
